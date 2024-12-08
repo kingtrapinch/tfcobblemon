@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.kingtrapinch.tfcobblemon.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "tfcobblemon.refmap.json",
+  "mixins": [
+    "CropBlockMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

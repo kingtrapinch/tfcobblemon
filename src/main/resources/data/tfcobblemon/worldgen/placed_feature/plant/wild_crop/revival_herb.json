@@ -1,0 +1,28 @@
+{
+  "feature": "tfcobblemon:plant/wild_crop/revival_herb",
+  "placement": [
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    },
+    {
+      "type": "block_predicate_filter",
+      "predicate": {
+        "type": "tfc:replaceable"
+      }
+    },
+    {
+      "type": "block_predicate_filter",
+      "predicate": {
+        "type": "would_survive",
+        "state": {
+          "Name": "cobblemon:revival_herb",
+          "Properties": {
+            "age": "1",
+            "stage": "1"
+          }
+        }
+      }
+    }
+  ]
+}
