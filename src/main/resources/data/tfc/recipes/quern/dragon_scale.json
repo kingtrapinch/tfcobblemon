@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "cobblemon:dragon_scale"
+  },
+  "result": {
+    "item": "tfc:powder/flux",
+    "count": 5
+  }
+}

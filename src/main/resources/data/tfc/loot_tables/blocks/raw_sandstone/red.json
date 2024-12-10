@@ -1,0 +1,32 @@
+{
+  "replace": true,
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "name": "sandstone_or_sunstone",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:sun_stone",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.06
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tfc:raw_sandstone/red",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.94
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

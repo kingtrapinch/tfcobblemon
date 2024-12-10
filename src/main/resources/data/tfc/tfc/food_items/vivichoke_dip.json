@@ -1,0 +1,11 @@
+{
+  "ingredient": {
+    "item": "cobblemon:vivichoke_dip"
+  },
+  "hunger": 8,
+  "saturation": 5,
+  "decay_modifier": 2,
+  "vegetables": 2,
+  "grain": 1.5,
+  "dairy": 1.5
+}

@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "cobblemon:deep_sea_scale"
+  },
+  "result": {
+    "item": "tfc:powder/flux",
+    "count": 3
+  }
+}

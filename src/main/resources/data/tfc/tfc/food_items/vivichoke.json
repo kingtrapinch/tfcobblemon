@@ -1,0 +1,9 @@
+{
+  "ingredient": {
+    "item": "cobblemon:vivichoke"
+  },
+  "hunger": 4,
+  "saturation": 0.5,
+  "decay_modifier": 0.7,
+  "vegetables": 1
+}

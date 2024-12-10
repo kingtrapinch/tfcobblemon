@@ -1,0 +1,9 @@
+{
+  "ingredient": {
+    "tag": "cobblemon:berries"
+  },
+  "hunger": 2,
+  "saturation": 0,
+  "decay_modifier": 1,
+  "fruit": 1
+}

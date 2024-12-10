@@ -1,0 +1,6 @@
+{
+  "ingredient": {
+    "item": "tfc:rooted_dirt/silty_loam"
+  },
+  "loot_table": "tfc:panning/rooted_dirt"
+}

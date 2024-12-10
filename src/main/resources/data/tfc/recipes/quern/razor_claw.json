@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "cobblemon:razor_claw"
+  },
+  "result": {
+    "item": "minecraft:bone_meal",
+    "count": 2
+  }
+}

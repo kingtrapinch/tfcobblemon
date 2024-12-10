@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:empty",
+  "pools": [
+    {
+      "name": "loot_pool",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "minecraft:stick",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.55
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:big_root",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.25
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:energy_root",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.06
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
