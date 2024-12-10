@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:tangela",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "cobblemon:big_root",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:energy_root",
+        "percentage": 5
+      }
+    ]
+  }
+}

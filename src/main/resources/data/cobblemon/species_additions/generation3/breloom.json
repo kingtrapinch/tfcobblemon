@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:breloom",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:brown_mushroom",
+        "quantityRange": "1-3"
+      },
+      {
+        "item": "tfc:food/rabbit",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

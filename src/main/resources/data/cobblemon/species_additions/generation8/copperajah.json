@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:copperajah",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:normal_native_copper",
+        "quantityRange": "1-4"
+      },
+      {
+        "item": "tfc:rich_native_copper",
+        "percentage": 25
+      }
+    ]
+  }
+}

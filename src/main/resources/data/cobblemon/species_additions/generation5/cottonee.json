@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:cottonee",
+  "implemented": true,
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "tfc:wool",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

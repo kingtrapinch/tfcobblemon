@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:jangmoo",
+  "implemented": true,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "cobblemon:dragon_scale",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "cobblemon:dragon_fang",
+        "percentage": 5
+      }
+    ]
+  }
+}

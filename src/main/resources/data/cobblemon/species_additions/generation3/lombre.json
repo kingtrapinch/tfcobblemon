@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:lombre",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:plant/water_lily",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:food/fresh_seaweed",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

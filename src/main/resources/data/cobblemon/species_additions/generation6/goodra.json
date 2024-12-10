@@ -1,0 +1,29 @@
+{
+  "target": "cobblemon:goodra",
+  "implemented": true,
+  "forms": [
+    {
+      "name": "Hisui",
+      "aspects": [
+        "hisuian"
+      ],
+      "drops": {
+        "amount": 11,
+        "entries": [
+          {
+            "item": "tfc:glue",
+            "quantityRange": "4-7"
+          },
+          {
+            "item": "tfc:ore/poor_tetrahedrite",
+            "quantityRange": "1-3"
+          },
+          {
+            "item": "cobblemon:aspear_berry",
+            "percentage": 5
+          }
+        ]
+      }
+    }
+  ]
+}

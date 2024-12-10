@@ -1,0 +1,24 @@
+{
+  "target": "cobblemon:torkoal",
+  "implemented": true,
+  "drops": {
+    "amount": 9,
+    "entries": [
+      {
+        "item": "minecraft:scute"
+      },
+      {
+        "item": "minecraft:gunpowder",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "tfc:powder/charcoal",
+        "quantityRange": "0-3"
+      },
+      {
+        "item": "tfc:powder/sulfur",
+        "quantityRange": "0-3"
+      }
+    ]
+  }
+}

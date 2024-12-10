@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:venusaur",
+  "implemented": true,
+  "drops": {
+    "amount": 7,
+    "entries": [
+      {
+        "item": "minecraft:rotten_compost",
+        "quantityRange": "2-3"
+      },
+      {
+        "item": "tfc:plant/king_fern",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:seeds/cabbage",
+        "quantityRange": "0-2"
+      }
+    ]
+  }
+}

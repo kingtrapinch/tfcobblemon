@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:dusknoir",
+  "implemented": true,
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "tfc:wool_yarn",
+        "quantityRange": "2-4"
+      },
+      {
+        "item": "tfc:wool_cloth",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "cobblemon:spell_tag",
+        "percentage": 25
+      }
+    ]
+  }
+}

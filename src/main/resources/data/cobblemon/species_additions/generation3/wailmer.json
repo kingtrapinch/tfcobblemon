@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:wailmer",
+  "implemented": true,
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "tfc:blubber",
+        "quantityRange": "2-5"
+      }
+    ]
+  }
+}

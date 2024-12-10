@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:tauros",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:large_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "tfc:food/beef",
+        "quantityRange": "1-3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:bastiodon",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:rock/raw/basalt",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:ore/normal_cassiterite",
+        "quantityRange": "0-2"
+      }
+    ]
+  }
+}

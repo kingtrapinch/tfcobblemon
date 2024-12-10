@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:quagsire",
+  "implemented": true,
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "minecraft:clay_ball",
+        "quantityRange": "1-4"
+      },
+      {
+        "item": "tfc:blubber",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

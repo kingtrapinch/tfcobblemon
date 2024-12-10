@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:woobat",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:wool_yarn",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:food/chicken",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

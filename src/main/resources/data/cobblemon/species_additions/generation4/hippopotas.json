@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:hippopotas",
+  "implemented": true,
+  "drops": {
+    "amount": 8,
+    "entries": [
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:food/pork",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "tfc:sand/brown",
+        "quantityRange": "1-5"
+      }
+    ]
+  }
+}

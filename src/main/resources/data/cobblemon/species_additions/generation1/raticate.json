@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:raticate",
+  "implemented": true,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "cobblemon:oran_berry",
+        "percentage": 5
+      }
+    ]
+  }
+}

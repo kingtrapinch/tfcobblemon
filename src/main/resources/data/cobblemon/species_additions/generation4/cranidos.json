@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:cranidos",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:rock/loose/quartzite",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:ore/small_bismuthinite",
+        "quantityRange": "0-2"
+      }
+    ]
+  }
+}

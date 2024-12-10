@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:horsea",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:ink_sac",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:coral/tube_coral",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

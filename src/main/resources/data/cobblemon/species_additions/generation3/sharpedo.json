@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:sharpedo",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:food/salmon",
+        "quantityRange": "1-3"
+      },
+      {
+        "item": "cobblemon:deep_sea_tooth",
+        "percentage": 10
+      }
+    ]
+  }
+}

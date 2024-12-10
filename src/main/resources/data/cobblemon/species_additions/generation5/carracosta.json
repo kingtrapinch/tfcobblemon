@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:carracosta",
+  "implemented": true,
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "tfc:food/turtle",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:rock/loose/shale",
+        "quantityRange": "2-4"
+      }
+    ]
+  }
+}

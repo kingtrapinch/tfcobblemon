@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:ursaluna",
+  "implemented": true,
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "tfc:large_raw_hide",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:food/bear",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "minecraft:honeycomb",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

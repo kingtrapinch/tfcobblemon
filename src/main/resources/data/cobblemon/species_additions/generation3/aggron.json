@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:aggron",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:ore/normal_magnetite",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:ore/rich_magnetite",
+        "percentage": 50
+      }
+    ]
+  }
+}

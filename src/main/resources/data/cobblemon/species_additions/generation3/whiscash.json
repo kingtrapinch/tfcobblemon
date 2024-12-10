@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:whiscash",
+  "implemented": true,
+  "drops": {
+    "amount": 8,
+    "entries": [
+      {
+        "item": "tfc:food/bluegill",
+        "quantityRange": "2-3"
+      },
+      {
+        "item": "minecraft:clay_ball",
+        "quantityRange": "2-5"
+      }
+    ]
+  }
+}

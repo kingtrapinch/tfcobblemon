@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:mudbray",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:clay_ball",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "tfc:food/horse_meat",
+        "percentage": 10
+      }
+    ]
+  }
+}

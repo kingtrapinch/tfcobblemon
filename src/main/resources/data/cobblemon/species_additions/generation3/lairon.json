@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:lairon",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:ore/poor_magnetite",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:ore/normal_magnetite",
+        "percentage": 50
+      }
+    ]
+  }
+}

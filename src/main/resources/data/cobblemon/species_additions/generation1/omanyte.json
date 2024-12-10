@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:omanyte",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:groundcover/mollusk",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:food/calamari",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

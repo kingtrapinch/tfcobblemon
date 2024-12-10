@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:rhydon",
+  "implemented": true,
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "tfc:rock/raw/andesite",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:rock/raw/andesite_slab",
+        "quantityRange": "1-4"
+      }
+    ]
+  }
+}

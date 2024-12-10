@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:mareep",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:small_sheepskin_hide",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:food/mutton",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

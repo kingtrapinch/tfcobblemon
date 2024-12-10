@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:anorith",
+  "implemented": true,
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "tfc:food/shellfish",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

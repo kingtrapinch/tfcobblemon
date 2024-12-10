@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:numel",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "tfc:kaolin_clay",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "cobblemon:rawst_berry",
+        "percentage": 10
+      }
+    ]
+  }
+}

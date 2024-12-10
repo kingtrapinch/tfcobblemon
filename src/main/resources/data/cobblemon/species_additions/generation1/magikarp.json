@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:magikarp",
+  "implemented": true,
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "tfc:food/salmon",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

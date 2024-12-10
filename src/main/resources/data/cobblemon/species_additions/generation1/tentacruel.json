@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:tentacruel",
+  "implemented": true,
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "tfc:food/calamari",
+        "quantityRange": "1-3"
+      },
+      {
+        "item": "minecraft:glow_ink_sac",
+        "quantityRange": "0-2"
+      }
+    ]
+  }
+}

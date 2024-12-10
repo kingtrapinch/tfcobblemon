@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:beedrill",
+  "implemented": true,
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "minecraft:string",
+        "quantityRange": "2-4"
+      },
+      {
+        "item": "cobblemon:silver_powder",
+        "percentage": 10
+      }
+    ]
+  }
+}

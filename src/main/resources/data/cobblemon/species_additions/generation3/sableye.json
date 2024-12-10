@@ -1,0 +1,41 @@
+{
+  "target": "cobblemon:sableye",
+  "implemented": true,
+  "drops": {
+    "amount": 8,
+    "entries": [
+      {
+        "item": "tfc:ore/amethyst",
+        "percentage": 1
+      },
+      {
+        "item": "tfc:ore/diamond",
+        "percentage": 1
+      },
+      {
+        "item": "tfc:ore/emerald",
+        "percentage": 1
+      },
+      {
+        "item": "tfc:ore/lapis_lazuli",
+        "percentage": 1
+      },
+      {
+        "item": "tfc:ore/pyrite",
+        "percentage": 1
+      },
+      {
+        "item": "tfc:ore/ruby",
+        "percentage": 1
+      },
+      {
+        "item": "tfc:ore/sapphire",
+        "percentage": 1
+      },
+      {
+        "item": "tfc:ore/topaz",
+        "percentage": 1
+      }
+    ]
+  }
+}

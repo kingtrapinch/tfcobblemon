@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:wingull",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/chicken",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "minecraft:feather",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

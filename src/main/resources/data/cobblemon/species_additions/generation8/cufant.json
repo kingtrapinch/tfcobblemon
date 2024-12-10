@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:cufant",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:small_native_copper",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:normal_native_copper",
+        "percentage": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:kabutops",
+  "implemented": true,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:food/shellfish",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

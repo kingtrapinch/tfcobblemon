@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:duskull",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:wool_yarn",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "tfc:wool_cloth",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:spell_tag",
+        "percentage": 5
+      }
+    ]
+  }
+}

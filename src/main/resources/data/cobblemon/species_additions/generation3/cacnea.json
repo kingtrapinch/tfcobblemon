@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:cacnea",
+  "implemented": true,
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "tfc:plant/barrel_cactus",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:nidoranm",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:rotten_flesh",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "minecraft:rabbit_foot",
+        "percentage": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:crustle",
+  "implemented": true,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:rock/raw/claystone",
+        "percentage": 80
+      },
+      {
+        "item": "tfc:food/shellfish",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

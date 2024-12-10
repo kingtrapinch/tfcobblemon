@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:wailord",
+  "implemented": true,
+  "drops": {
+    "amount": 10,
+    "entries": [
+      {
+        "item": "tfc:blubber",
+        "quantityRange": "5-10"
+      }
+    ]
+  }
+}

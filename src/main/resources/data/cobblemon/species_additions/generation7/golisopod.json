@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:golisopod",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/shellfish",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:oran_berry",
+        "percentage": 50
+      }
+    ]
+  }
+}

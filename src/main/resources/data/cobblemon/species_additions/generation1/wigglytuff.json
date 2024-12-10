@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:wigglytuff",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:wool_yarn",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:food/rabbit",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "cobblemon:chesto_berry",
+        "percentage": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:pidgeot",
+  "implemented": true,
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "tfc:food/chicken",
+        "quantityRange": "1-3"
+      },
+      {
+        "item": "minecraft:feather",
+        "quantityRange": "2-3"
+      }
+    ]
+  }
+}

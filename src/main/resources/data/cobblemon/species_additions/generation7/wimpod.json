@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:wimpod",
+  "implemented": true,
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "tfc:food/shellfish",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

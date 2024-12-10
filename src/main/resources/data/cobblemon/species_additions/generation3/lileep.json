@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:lileep",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "cobblemon:big_root",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "cobblemon:energy_root",
+        "percentage": 5
+      }
+    ]
+  }
+}

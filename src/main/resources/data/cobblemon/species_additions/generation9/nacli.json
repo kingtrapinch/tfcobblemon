@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:nacli",
+  "implemented": true,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:powder/salt",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

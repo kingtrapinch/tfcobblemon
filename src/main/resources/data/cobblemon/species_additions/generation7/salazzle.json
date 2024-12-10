@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:salazzle",
+  "implemented": true,
+  "drops": {
+    "amount": 7,
+    "entries": [
+      {
+        "item": "tfc:powder/charcoal",
+        "quantityRange": "1-3"
+      },
+      {
+        "item": "tfc:powder/sulfur",
+        "quantityRange": "0-4"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:garganacl",
+  "implemented": true,
+  "drops": {
+    "amount": 10,
+    "entries": [
+      {
+        "item": "tfc:powder/salt",
+        "quantityRange": "4-10"
+      }
+    ]
+  }
+}

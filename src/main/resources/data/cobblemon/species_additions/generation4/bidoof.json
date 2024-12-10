@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:bibarel",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "tfc:food/rabbit",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "minecraft:stick",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

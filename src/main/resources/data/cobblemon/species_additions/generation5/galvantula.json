@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:galvantula",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:string",
+        "quantityRange": "3-4"
+      },
+      {
+        "item": "cobblemon:cheri_berry",
+        "percentage": 10
+      }
+    ]
+  }
+}

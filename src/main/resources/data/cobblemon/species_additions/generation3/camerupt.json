@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:camerupt",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:large_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "tfc:kaolin_clay",
+        "quantityRange": "1-3"
+      },
+      {
+        "item": "cobblemon:rawst_berry",
+        "percentage": 5
+      }
+    ]
+  }
+}

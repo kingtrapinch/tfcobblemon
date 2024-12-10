@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:pumpkaboo",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/pumpkin_chunks",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:seeds/pumpkin",
+        "percentage": 10
+      }
+    ]
+  }
+}

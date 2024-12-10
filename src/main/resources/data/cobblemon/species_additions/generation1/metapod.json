@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:metapod",
+  "implemented": true,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:honeycomb",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "cobblemon:persim_berry",
+        "percentage": 10
+      }
+    ]
+  }
+}

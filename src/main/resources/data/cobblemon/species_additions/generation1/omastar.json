@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:omastar",
+  "implemented": true,
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "tfc:groundcover/mollusk",
+        "quantityRange": "1-3"
+      },
+      {
+        "item": "tfc:food/calamari",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

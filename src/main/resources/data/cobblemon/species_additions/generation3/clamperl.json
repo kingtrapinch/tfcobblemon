@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:clamperl",
+  "implemented": true,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:groundcover/clam",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

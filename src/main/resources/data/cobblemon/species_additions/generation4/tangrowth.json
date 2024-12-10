@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:tangrowth",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "cobblemon:big_root",
+        "quantityRange": "2-3"
+      },
+      {
+        "item": "cobblemon:energy_root",
+        "percentage": 10
+      }
+    ]
+  }
+}

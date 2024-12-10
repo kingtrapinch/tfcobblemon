@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:salandit",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:powder/charcoal",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:powder/sulfur",
+        "quantityRange": "0-2"
+      }
+    ]
+  }
+}

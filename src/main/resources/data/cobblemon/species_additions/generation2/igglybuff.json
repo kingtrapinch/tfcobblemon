@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:igglybuff",
+  "implemented": true,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:wool_yarn",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "cobblemon:chesto_berry",
+        "percentage": 50
+      }
+    ]
+  }
+}

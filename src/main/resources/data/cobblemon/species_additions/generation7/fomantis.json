@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:lurantis",
+  "implemented": true,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "cobblemon:revival_herb",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "cobblemon:white_herb",
+        "percentage": 5
+      }
+    ]
+  }
+}

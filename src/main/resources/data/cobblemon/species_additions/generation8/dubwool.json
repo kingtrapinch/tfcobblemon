@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:dubwool",
+  "implemented": true,
+  "drops": {
+    "amount": 7,
+    "entries": [
+      {
+        "item": "tfc:medium_sheepskin_hide",
+        "quantityRange": "1-3"
+      },
+      {
+        "item": "tfc:food/mutton",
+        "quantityRange": "1-4"
+      }
+    ]
+  }
+}

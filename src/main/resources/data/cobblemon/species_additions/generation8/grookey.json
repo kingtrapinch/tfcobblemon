@@ -1,0 +1,25 @@
+{
+  "target": "cobblemon:grookey",
+  "implemented": true,
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "minecraft:stick",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:food/banana",
+        "percentage": 25
+      },
+      {
+        "item": "tfc:plant/banana_sapling",
+        "percentage": 5
+      }
+    ]
+  }
+}

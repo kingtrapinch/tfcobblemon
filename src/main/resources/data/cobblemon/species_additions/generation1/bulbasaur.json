@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:bulbasaur",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:rotten_compost",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "tfc:food/cabbage",
+        "percentage": 25
+      },
+      {
+        "item": "tfc:seeds/cabbage",
+        "percentage": 10
+      }
+    ]
+  }
+}

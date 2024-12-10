@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:huntail",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:ore/sapphire",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "cobblemon:deep_sea_tooth",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

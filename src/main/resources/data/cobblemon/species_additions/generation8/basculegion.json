@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:basculegion",
+  "implemented": true,
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "tfc:food/cod",
+        "quantityRange": "1-4"
+      },
+      {
+        "item": "minecraft:ghast_tear",
+        "percentage": 50
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:barboach",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/bluegill",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "minecraft:clay_ball",
+        "quantityRange": "0-2"
+      }
+    ]
+  }
+}

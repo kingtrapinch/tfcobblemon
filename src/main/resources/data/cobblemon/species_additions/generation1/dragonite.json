@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:dragonite",
+  "implemented": true,
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "minecraft:dragon_breath",
+        "quantityRange": "1-3"
+      },
+      {
+        "item": "cobblemon:dragon_fang",
+        "percentage": 5.0
+      },
+      {
+        "item": "cobblemon:dragon_scale",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

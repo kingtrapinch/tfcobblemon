@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:feraligatr",
+  "implemented": true,
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "tfc:large_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "tfc:food/salmon",
+        "quantityRange": "1-3"
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

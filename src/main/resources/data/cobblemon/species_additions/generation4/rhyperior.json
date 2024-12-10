@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:rhyperior",
+  "implemented": true,
+  "drops": {
+    "amount": 8,
+    "entries": [
+      {
+        "item": "tfc:rock/raw/andesite",
+        "quantityRange": "2-4"
+      },
+      {
+        "item": "tfc:rock/raw/andesite_slab",
+        "quantityRange": "1-4"
+      }
+    ]
+  }
+}

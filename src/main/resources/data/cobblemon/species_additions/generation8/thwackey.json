@@ -1,0 +1,25 @@
+{
+  "target": "cobblemon:thwackey",
+  "implemented": true,
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "minecraft:stick",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:food/banana",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "tfc:plant/banana_sapling",
+        "percentage": 10
+      }
+    ]
+  }
+}

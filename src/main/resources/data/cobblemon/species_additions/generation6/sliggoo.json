@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:sliggoo",
+  "implemented": true,
+  "drops": {
+    "amount": 8,
+    "entries": [
+      {
+        "item": "tfc:glue",
+        "quantityRange": "2-5"
+      },
+      {
+        "item": "tfc:ore/small_tetrahedrite",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "cobblemon:aspear_berry",
+        "percentage": 10
+      }
+    ]
+  }
+}

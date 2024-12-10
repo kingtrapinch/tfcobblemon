@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:trevenant",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:wood/twig/willow",
+        "quantityRange": "2-3"
+      },
+      {
+        "item": "tfc:wood/log/willow",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc/wood/sapling/willow",
+        "percentage": 25
+      }
+    ]
+  }
+}

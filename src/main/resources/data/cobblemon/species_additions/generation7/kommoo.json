@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:kommoo",
+  "implemented": true,
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "cobblemon:dragon_scale",
+        "quantityRange": "1-3"
+      },
+      {
+        "item": "tfc:food/gran_feline",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:dragon_fang",
+        "percentage": 15
+      }
+    ]
+  }
+}

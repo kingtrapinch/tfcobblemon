@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:lanturn",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "minecraft:glow_ink_sac",
+        "quantityRange": "1-3"
+      },
+      {
+        "item": "cobblemon:deep_sea_scale",
+        "percentage": 10
+      }
+    ]
+  }
+}

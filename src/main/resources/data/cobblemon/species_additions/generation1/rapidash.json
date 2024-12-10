@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:rapidash",
+  "implemented": true,
+  "drops": {
+    "amount": 7,
+    "entries": [
+      {
+        "item": "tfc:powder/charcoal",
+        "quantityRange": "3-4"
+      },
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "tfc:food/horse_meat",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

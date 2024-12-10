@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:archen",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:feather",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:groundcover/guano",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

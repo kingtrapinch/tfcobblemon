@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:linoone",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "tfc:food/fox",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

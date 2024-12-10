@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:shroomish",
+  "implemented": true,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:brown_mushroom",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

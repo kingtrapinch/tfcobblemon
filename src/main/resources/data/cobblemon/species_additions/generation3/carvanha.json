@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:carvanha",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/salmon",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "cobblemon:deep_sea_tooth",
+        "percentage": 5
+      }
+    ]
+  }
+}

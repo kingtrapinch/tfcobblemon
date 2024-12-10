@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:pelipper",
+  "implemented": true,
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "tfc:food/chicken",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "minecraft:feather",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:food/cod",
+        "quantityRange": "1-3"
+      }
+    ]
+  }
+}

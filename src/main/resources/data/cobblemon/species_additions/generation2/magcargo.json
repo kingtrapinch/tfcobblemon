@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:magcargo",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:magma_block",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "minecraft:magma_cream",
+        "percentage": 50
+      }
+    ]
+  }
+}

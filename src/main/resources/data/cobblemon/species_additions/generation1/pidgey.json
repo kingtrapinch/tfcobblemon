@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:pidgey",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:feather",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "tfc:food/chicken",
+        "percentage": 10
+      }
+    ]
+  }
+}

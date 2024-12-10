@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:gorebyss",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:ore/opal",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "cobblemon:deep_sea_scale",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:mightyena",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "minecraft:bone",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "tfc:food/hyena",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

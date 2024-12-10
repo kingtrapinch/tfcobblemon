@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:teddiursa",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "minecraft:honeycomb",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

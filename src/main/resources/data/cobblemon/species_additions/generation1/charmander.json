@@ -1,0 +1,18 @@
+{
+
+  "target": "cobblemon:charmander",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:gunpowder",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "cobblemon:charcoal",
+        "percentage": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "target": "cobblemon:rillaboom",
+  "implemented": true,
+  "drops": {
+    "amount": 7,
+    "entries": [
+      {
+        "item": "tfc:large_raw_hide",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "minecraft:stick",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:food/banana",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:plant/banana_sapling",
+        "percentage": 25
+      }
+    ]
+  }
+}

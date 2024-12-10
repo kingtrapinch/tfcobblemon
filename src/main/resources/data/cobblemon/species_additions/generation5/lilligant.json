@@ -1,0 +1,25 @@
+{
+  "target": "cobblemon:lilligant",
+  "implemented": true,
+  "forms": [
+    {
+      "name": "Hisui",
+      "aspects": [
+        "hisuian"
+      ],
+      "drops": {
+        "amount": 4,
+        "entries": [
+          {
+            "item": "cobblemon:vivichoke_seeds",
+            "quantityRange": "0-2"
+          },
+          {
+            "item": "cobblemon:vivichoke",
+            "quantityRange": "1-2"
+          }
+        ]
+      }
+    }
+  ]
+}

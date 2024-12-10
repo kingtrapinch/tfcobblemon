@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:cleffa",
+  "implemented": true,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:powder/diamond",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "cobblemon:leppa_berry",
+        "percentage": 50.0
+      }
+    ]
+  }
+}

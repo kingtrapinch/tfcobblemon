@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:wooper",
+  "implemented": true,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:clay_ball",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

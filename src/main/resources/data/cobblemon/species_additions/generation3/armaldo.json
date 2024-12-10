@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:armaldo",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/shellfish",
+        "quantityRange": "2-3"
+      }
+    ]
+  }
+}

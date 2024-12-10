@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:nidoqueen",
+  "implemented": true,
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "minecraft:rotten_flesh",
+        "quantityRange": "2-4"
+      },
+      {
+        "item": "tfc:large_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "cobblemon:poison_barb",
+        "percentage": 50
+      }
+    ]
+  }
+}

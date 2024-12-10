@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:zigzagoon",
+  "implemented": true,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "tfc:food/fox",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

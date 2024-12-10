@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:meowth",
+  "implemented": true,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "tfc:ore/small_native_gold",
+        "percentage": 25
+      }
+    ]
+  }
+}

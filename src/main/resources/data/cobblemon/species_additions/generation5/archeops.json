@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:archeops",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:feather",
+        "quantityRange": "2-3"
+      },
+      {
+        "item": "tfc:groundcover/guano",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

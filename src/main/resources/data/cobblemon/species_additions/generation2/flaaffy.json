@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:flaaffy",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:medium_sheepskin_hide",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:food/mutton",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

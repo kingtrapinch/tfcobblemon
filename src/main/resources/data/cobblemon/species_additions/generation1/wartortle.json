@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:wartortle",
+  "implemented": true,
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "minecraft:scute",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:food/turtle",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

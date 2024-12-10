@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:hakamoo",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "cobblemon:dragon_scale",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "tfc:food/gran_feline",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "cobblemon:dragon_fang",
+        "percentage": 10
+      }
+    ]
+  }
+}

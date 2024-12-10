@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:riolu",
+  "implemented": true,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:ore/small_sphalerite",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

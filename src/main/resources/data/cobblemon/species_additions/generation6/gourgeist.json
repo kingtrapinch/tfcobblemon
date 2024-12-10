@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:gourgeist",
+  "implemented": true,
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "tfc:food/pumpkin_chunks",
+        "quantityRange": "2-3"
+      },
+      {
+        "item": "tfc:seeds/pumpkin",
+        "percentage": 25
+      },
+      {
+        "item": "tfc:pumpkin",
+        "percentage": 10
+      }
+    ]
+  }
+}

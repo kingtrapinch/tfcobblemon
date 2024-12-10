@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:relicanth",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/cod",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:deep_sea_scale",
+        "percentage": 5.0
+      }
+    ]
+  }
+}

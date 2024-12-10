@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:phantump",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:wood/twig/willow",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc/wood/sapling/willow",
+        "percentage": 10
+      }
+    ]
+  }
+}

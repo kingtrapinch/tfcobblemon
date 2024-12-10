@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:dragalge",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:plant/giant_kelp_flower",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "tfc:food/fresh_seaweed",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

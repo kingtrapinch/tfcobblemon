@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:surskit",
+  "implemented": true,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:string",
+        "quantityRange": "0-2"
+      }
+    ]
+  }
+}

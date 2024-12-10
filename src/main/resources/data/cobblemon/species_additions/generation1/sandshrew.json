@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:sandshrew",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "tfc:sand/yellow",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}
