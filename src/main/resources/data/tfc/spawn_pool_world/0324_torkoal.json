@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "torkoal-tfc-1",
+            "pokemon": "torkoal",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "20-55",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "#tfc:volcanic"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "whimsicott-tfc-1",
+            "pokemon": "whimsicott",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "20-45",
+            "weight": 10.0,
+            "condition": {
+                "timeRange": "day",
+                "biomes": [
+                    "#tfc:low_altitude"
+                ]
+            }
+        }
+    ]
+}

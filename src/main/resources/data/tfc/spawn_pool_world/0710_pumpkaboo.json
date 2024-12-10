@@ -1,0 +1,25 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "pumpkaboo-tfc-1",
+            "pokemon": "pumpkaboo",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "5-20",
+            "weight": 10.0,
+            "condition": {
+                "timeRange": "night",
+                "biomes": [
+                    "#tfc:common"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "lanturn-tfc-1",
+            "pokemon": "lanturn",
+            "presets": [
+                "underwater"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "20-45",
+            "weight": 10.0,
+            "condition": {
+                "timeRange": "night",
+                "biomes": [
+                    "#tfc:oceans"
+                ]
+            }
+        },
+        {
+            "id": "lanturn-tfc-2",
+            "pokemon": "lanturn",
+            "presets": [
+                "underwater"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "20-45",
+            "weight": 20.0,
+            "condition": {
+                "canSeeSky": "false",
+                "biomes": [
+                    "#tfc:common",
+                    "#tfc:freshwater"
+                ]
+            }
+        }
+    ]
+}

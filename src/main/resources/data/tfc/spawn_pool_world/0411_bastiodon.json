@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "bastiodon-tfc-1",
+            "pokemon": "bastiodon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "20-45",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "#tfc:mid_altitude"
+                ]
+            }
+        }
+    ]
+}

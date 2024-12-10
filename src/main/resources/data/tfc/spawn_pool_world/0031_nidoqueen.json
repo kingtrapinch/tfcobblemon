@@ -1,0 +1,25 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "nidoqueen-tfc-1",
+            "pokemon": "nidoqueen",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-60",
+            "weight": 10.0,
+            "condition": {
+                "timeRange": "night",
+                "biomes": [
+                    "#tfc:mid_altitude"
+                ]
+            }
+        }
+    ]
+}

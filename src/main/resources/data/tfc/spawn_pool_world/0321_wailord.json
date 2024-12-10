@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "wailord-tfc-1",
+            "pokemon": "wailord",
+            "presets": [
+                "underwater"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "40-65",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "#tfc:oceans"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "quagsire-tfc-1",
+            "pokemon": "quagsire",
+            "presets": [
+                "underwater"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "20-45",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "tfc:lowlands",
+                    "#tfc:freshwater"
+                ]
+            }
+        }
+    ]
+}

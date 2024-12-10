@@ -1,0 +1,26 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "weedle-tfc-1",
+            "pokemon": "weedle",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "5-20",
+            "weight": 10.0,
+            "condition": {
+                "timeRange": "day",
+                "biomes": [
+                    "#tfc:common",
+                    "#tfc:badlands"
+                ]
+            }
+        }
+    ]
+}

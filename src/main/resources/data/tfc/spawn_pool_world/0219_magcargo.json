@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "magcargo-tfc-1",
+            "pokemon": "magcargo",
+            "presets": [
+                "lava_surface"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "20-45",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "#tfc:volcanic"
+                ]
+            }
+        }
+    ]
+}

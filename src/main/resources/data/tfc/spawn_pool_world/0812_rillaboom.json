@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "rillaboom-tfc-1",
+            "pokemon": "rillaboom",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "40-60",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "#tfc:island"
+                ]
+            }
+        }
+    ]
+}

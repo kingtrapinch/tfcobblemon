@@ -1,0 +1,25 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "mudsdale-tfc-1",
+            "pokemon": "mudsdale",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "20-45",
+            "weight": 10.0,
+            "condition": {
+                "timeRange": "day",
+                "biomes": [
+                    "tfc:lowlands"
+                ]
+            }
+        }
+    ]
+}

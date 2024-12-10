@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "tangrowth-tfc-1",
+            "pokemon": "tangrowth",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "20-55",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "#tfc:marshes"
+                ]
+            }
+        }
+    ]
+}

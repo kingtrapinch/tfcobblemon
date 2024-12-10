@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "lucario-tfc-1",
+            "pokemon": "lucario",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "40-60",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "#tfc:high_altitude"
+                ]
+            }
+        }
+    ]
+}

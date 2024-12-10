@@ -1,0 +1,44 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "chinchou-tfc-1",
+            "pokemon": "chinchou",
+            "presets": [
+                "underwater"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "5-20",
+            "weight": 10.0,
+            "condition": {
+                "timeRange": "night",
+                "biomes": [
+                    "#tfc:oceans"
+                ]
+            }
+        },
+        {
+            "id": "chinchou-tfc-2",
+            "pokemon": "chinchou",
+            "presets": [
+                "underwater"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "5-20",
+            "weight": 10.0,
+            "condition": {
+                "canSeeSky": "false",
+                "biomes": [
+                    "#tfc:common",
+                    "#tfc:freshwater"
+                ]
+            }
+        }
+    ]
+}

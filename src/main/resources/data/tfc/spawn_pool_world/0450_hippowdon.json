@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "hippowdon-tfc-1",
+            "pokemon": "hippowdon",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "20-65",
+            "weight": 10.0,
+            "condition": {
+                "biomes": [
+                    "#tfc:badlands"
+                ]
+            }
+        }
+    ]
+}
