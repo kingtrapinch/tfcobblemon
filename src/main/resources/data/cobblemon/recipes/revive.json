@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "cobblemon:heal_powder"
+        },
+        {
+            "item": "minecraft:honeycomb"
+        }
+    ],
+    "result": {
+        "item": "cobblemon:revive"
+    }
+}

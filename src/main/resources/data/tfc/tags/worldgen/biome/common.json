@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+      "#tfc:low_altitude",
+      "#tfc:mid_altitude",
+      "#tfc:high_altitude",
+      "#tfc:freshwater"
+    ]
+}

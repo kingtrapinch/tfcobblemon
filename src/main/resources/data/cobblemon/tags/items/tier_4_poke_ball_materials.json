@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "tfc:metal/sheet/red_steel",
+    "tfc:metal/sheet/blue_steel"
+  ]
+}

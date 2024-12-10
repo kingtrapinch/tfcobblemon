@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:shore",
+    "#tfc:tidal"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "cobblemon:remedy"
+        },
+        {
+            "tag": "tfc:foods/fruits"
+        },
+        {
+            "tag": "tfc:foods/fruits"
+        },
+		{
+			"item": "cobblemon:pep_up_flower"
+		}
+    ],
+    "result": {
+        "item": "cobblemon:fine_remedy"
+    }
+}
