@@ -1,0 +1,9 @@
+{
+  "context": "surface",
+  "condition": {
+    "fluid": "#minecraft:water",
+    "neededNearbyBlocks": [
+      "#cobblemon:cold"
+    ]
+  }
+}

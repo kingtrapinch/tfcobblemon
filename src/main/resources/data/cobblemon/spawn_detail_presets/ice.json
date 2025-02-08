@@ -1,0 +1,8 @@
+{
+  "condition": {
+      "canSeeSky": true,
+      "neededBaseBlocks": [
+          "#cobblemon:icy"
+      ]
+  }
+}

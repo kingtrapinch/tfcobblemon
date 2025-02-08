@@ -1,8 +1,7 @@
 {
   "replace": true,
   "values": [
-    "tfc:metal/ingot/copper",
-    "tfc:metal/ingot/bismuth_bronze",
-    "tfc:metal/ingot/black_bronze"
-  ]
+    "tfc:metal/sheet/copper",
+    "tfc:metal/sheet/bronze"
+    ]
 }

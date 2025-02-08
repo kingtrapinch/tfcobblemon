@@ -1,6 +1,6 @@
 {
   "replace": true,
   "values": [
-    "tfc:metal/sheet/wrought_iron"
+    "tfc:metal/ingot/cast_iron"
   ]
 }

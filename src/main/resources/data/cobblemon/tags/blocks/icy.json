@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+	  "minecraft:ice",
+    "minecraft:packed_ice",
+    "minecraft:blue_ice",
+	  "minecraft:ice",
+	  "tfc:icicle",
+	  "tfc:sea_ice",
+    "#minecraft:ice"
+  ]
+}

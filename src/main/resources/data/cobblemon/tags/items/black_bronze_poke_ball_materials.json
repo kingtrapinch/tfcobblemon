@@ -1,8 +1,6 @@
 {
   "replace": true,
   "values": [
-    "tfc:metal/sheet/bronze",
-    "tfc:metal/sheet/bismuth_bronze",
     "tfc:metal/sheet/black_bronze"
   ]
 }

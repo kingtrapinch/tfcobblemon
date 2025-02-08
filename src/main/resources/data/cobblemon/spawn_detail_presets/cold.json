@@ -1,0 +1,12 @@
+{
+    "condition": {
+        "canSeeSky": true,
+        "neededBaseBlocks": [
+            "#cobblemon:natural",
+            "#cobblemon:snowy"
+        ],
+        "neededNearbyBlocks": [
+            "#cobblemon:cold"
+        ]
+    }
+}

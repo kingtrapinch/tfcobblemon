@@ -1,8 +1,8 @@
 {
   "replace": false,
   "values": [
-    "#tfc/fruit_tree_leaves",
-    "#tfc/fruit_tree_branch",
+    "#tfc:fruit_tree_leaves",
+    "#tfc:fruit_tree_branch",
     "tfc:wood/leaves/acacia",
     "tfc:wood/leaves/ash",
     "tfc:wood/leaves/aspen",

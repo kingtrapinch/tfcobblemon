@@ -1,0 +1,12 @@
+{
+    "condition": {
+        "canSeeSky": true,
+        "neededBaseBlocks": [
+            "#cobblemon:natural"
+        ],
+        "minX": -4000,
+        "maxX":  4000,
+        "minZ": -4000,
+        "maxZ":  4000
+    }
+}
