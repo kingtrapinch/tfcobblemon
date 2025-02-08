@@ -7,14 +7,16 @@
             "id": "ludicolo-tfc-1",
             "pokemon": "ludicolo",
             "presets": [
-                "natural"
+                "seasonal"
             ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "rare",
             "level": "40-60",
             "weight": 10.0,
-            "condition": {
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "biomes": [
                     "#tfc:freshwater"
                 ]

@@ -7,14 +7,15 @@
             "id": "dragonair-tfc-1",
             "pokemon": "dragonair",
             "presets": [
-                "natural"
+                "seasonal"
             ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "rare",
             "level": "30-55",
             "weight": 10.0,
-            "condition": {
+            "condition": {                
+                "canSeeSky": true,
                 "biomes": [
                     "#tfc:oceans"
                 ]

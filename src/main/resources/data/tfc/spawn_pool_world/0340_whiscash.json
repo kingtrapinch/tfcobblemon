@@ -4,17 +4,19 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "whishcash-tfc-1",
-            "pokemon": "whishcash",
+            "id": "whiscash-tfc-1",
+            "pokemon": "whiscash",
             "presets": [
-                "underwater"
+                "warm_water"
             ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "uncommon",
             "level": "20-45",
             "weight": 10.0,
-            "condition": {
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "biomes": [
                     "tfc:lowlands",
                     "#tfc:freshwater"

@@ -7,14 +7,16 @@
             "id": "pelipper-tfc-1",
             "pokemon": "pelipper",
             "presets": [
-                "water_surface"
+                "natural"
             ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "common",
             "level": "20-45",
             "weight": 10.0,
-            "condition": {
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "biomes": [
                     "#tfc:shores"
                 ]

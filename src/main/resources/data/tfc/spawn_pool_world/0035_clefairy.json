@@ -15,9 +15,30 @@
             "level": "5-20",
             "weight": 10.0,
             "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "timeRange": "night",
                 "biomes": [
                     "#tfc:high_altitude"
+                ]
+            }
+        },
+        {
+            "id": "clefairy-tfc-2",
+            "pokemon": "clefairy",
+            "presets": [
+                "rocky"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "25-45",
+            "weight": 30.0,
+            "condition": {                
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "#tfc:highlands"
                 ]
             }
         }

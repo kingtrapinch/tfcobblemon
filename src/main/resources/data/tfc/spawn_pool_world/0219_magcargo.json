@@ -16,7 +16,7 @@
             "weight": 10.0,
             "condition": {
                 "biomes": [
-                    "#tfc:volcanic"
+                    "#tfc:all"
                 ]
             }
         }

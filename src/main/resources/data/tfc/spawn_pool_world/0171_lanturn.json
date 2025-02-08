@@ -34,6 +34,8 @@
             "weight": 20.0,
             "condition": {
                 "canSeeSky": "false",
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
                 "biomes": [
                     "#tfc:common",
                     "#tfc:freshwater"

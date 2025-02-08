@@ -7,14 +7,16 @@
             "id": "gligar-tfc-1",
             "pokemon": "gligar",
             "presets": [
-                "natural"
+                "seasonal"
             ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "common",
             "level": "5-35",
             "weight": 10.0,
-            "condition": {
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "biomes": [
                     "#tfc:high_altitude"
                 ]

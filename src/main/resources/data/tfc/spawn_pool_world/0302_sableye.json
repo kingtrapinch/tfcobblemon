@@ -7,7 +7,7 @@
             "id": "sableye-tfc-1",
             "pokemon": "sableye",
             "presets": [
-                "natural"
+                "rocky"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -18,6 +18,25 @@
                 "timeRange": "night",
                 "biomes": [
                     "#tfc:common"
+                ]
+            }
+        },
+        {
+            "id": "sableye-tfc-2",
+            "pokemon": "sableye",
+            "presets": [
+                "rocky"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "25-45",
+            "weight": 10.0,
+            "condition": {                
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "#tfc:all"
                 ]
             }
         }

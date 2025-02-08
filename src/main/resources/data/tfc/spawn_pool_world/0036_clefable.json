@@ -15,9 +15,30 @@
             "level": "40-60",
             "weight": 10.0,
             "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "timeRange": "night",
                 "biomes": [
                     "#tfc:high_altitude"
+                ]
+            }
+        },
+        {
+            "id": "clefable-tfc-2",
+            "pokemon": "clefable",
+            "presets": [
+                "rocky"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "45-55",
+            "weight": 10.0,
+            "condition": {                
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "#tfc:highlands"
                 ]
             }
         }

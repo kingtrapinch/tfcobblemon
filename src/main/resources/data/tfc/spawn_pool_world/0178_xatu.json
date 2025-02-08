@@ -7,14 +7,16 @@
             "id": "xatu-tfc-1",
             "pokemon": "xatu",
             "presets": [
-                "natural"
+                "seasonal"
             ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "uncommon",
             "level": "20-45",
             "weight": 10.0,
-            "condition": {
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "biomes": [
                     "#tfc:badlands"
                 ]

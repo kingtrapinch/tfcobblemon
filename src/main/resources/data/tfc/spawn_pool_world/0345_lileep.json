@@ -7,14 +7,16 @@
             "id": "lileep-tfc-1",
             "pokemon": "lileep",
             "presets": [
-                "natural"
+                "seasonal"
             ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "common",
             "level": "5-20",
             "weight": 10.0,
-            "condition": {
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "biomes": [
                     "#tfc:tidal"
                 ]

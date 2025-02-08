@@ -7,14 +7,15 @@
             "id": "dratini-tfc-1",
             "pokemon": "dratini",
             "presets": [
-                "natural"
+                "seasonal"
             ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "uncommon",
             "level": "20-45",
             "weight": 10.0,
-            "condition": {
+            "condition": {                
+                "canSeeSky": true,
                 "biomes": [
                     "#tfc:oceans"
                 ]

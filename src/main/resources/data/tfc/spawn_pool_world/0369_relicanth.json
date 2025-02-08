@@ -14,9 +14,28 @@
             "bucket": "uncommon",
             "level": "20-45",
             "weight": 10.0,
-            "condition": {
+            "condition": {                
                 "biomes": [
                     "#tfc:oceans"
+                ]
+            }
+        },
+        {
+            "id": "relicanth-tfc-2",
+            "pokemon": "relicanth",
+            "presets": [
+                "underwater"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "25-45",
+            "weight": 10.0,
+            "condition": {                
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "#tfc:all"
                 ]
             }
         }

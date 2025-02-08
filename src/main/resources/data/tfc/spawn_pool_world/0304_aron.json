@@ -14,9 +14,30 @@
             "bucket": "common",
             "level": "8-33",
             "weight": 10.0,
-            "condition": {
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "biomes": [
                     "#tfc:high_altitude"
+                ]
+            }
+        },
+        {
+            "id": "aron-tfc-2",
+            "pokemon": "aron",
+            "presets": [
+                "rocky"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "25-45",
+            "weight": 10.0,
+            "condition": {                
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "#tfc:all"
                 ]
             }
         }

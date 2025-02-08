@@ -7,7 +7,7 @@
             "id": "bibarel-tfc-1",
             "pokemon": "bibarel",
             "presets": [
-                "underwater"
+                "warm_water"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -15,6 +15,8 @@
             "level": "20-45",
             "weight": 10.0,
             "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "timeRange": "day",
                 "biomes": [
                     "#tfc:freshwater"

@@ -14,9 +14,30 @@
             "bucket": "rare",
             "level": "42-60",
             "weight": 10,
-            "condition": {
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "biomes": [
                     "#tfc:high_altitude"
+                ]
+            }
+        },
+        {
+            "id": "aggron-tfc-2",
+            "pokemon": "aggron",
+            "presets": [
+                "rocky"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "55-70",
+            "weight": 10.0,
+            "condition": {                
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "#tfc:all"
                 ]
             }
         }

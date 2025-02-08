@@ -7,14 +7,15 @@
             "id": "dragonite-tfc-1",
             "pokemon": "dragonite",
             "presets": [
-                "natural"
+                "seasonal"
             ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "rare",
             "level": "40-60",
             "weight": 10.0,
-            "condition": {
+            "condition": {                
+                "canSeeSky": true,
                 "biomes": [
                     "#tfc:oceans"
                 ]

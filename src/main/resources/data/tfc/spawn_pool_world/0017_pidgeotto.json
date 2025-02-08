@@ -7,7 +7,7 @@
             "id": "pidgeotto-tfc-1",
             "pokemon": "pidgeotto",
             "presets": [
-                "natural"
+                "central-seasonal"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -15,6 +15,8 @@
             "level": "20-40",
             "weight": 10.0,
             "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
                 "timeRange": "day",
                 "biomes": [
                     "#tfc:common"
