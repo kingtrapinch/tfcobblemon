@@ -1,0 +1,64 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "eiscue-tfc-1",
+            "pokemon": "eiscue",
+            "presets": [
+                "cold"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "20-50",
+            "weight": 50.0,
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#tfc:shores"
+                ]
+            }
+        },
+        {
+            "id": "eiscue-tfc-2",
+            "pokemon": "eiscue",
+            "presets": [
+                "ice"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "20-50",
+            "weight": 50.0,
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#tfc:shores"
+                ]
+            }
+        },
+        {
+            "id": "eiscue-tfc-3",
+            "pokemon": "eiscue",
+            "presets": [
+                "cold_water"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "20-50",
+            "weight": 50.0,
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#tfc:shores"
+                ]
+            }
+        }
+    ]
+}

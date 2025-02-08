@@ -1,0 +1,27 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "scyther-tfc-1",
+            "pokemon": "scyther",
+            "presets": [
+                "seasonal"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "30-45",
+            "weight": 10.0,
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#tfc:low_altitude",
+                    "#tfc:mid_altitude"
+                ]
+            }
+        }
+    ]
+}

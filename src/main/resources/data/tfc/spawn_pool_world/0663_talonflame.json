@@ -1,0 +1,27 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "talonflame-tfc-1",
+            "pokemon": "talonflame",
+            "presets": [
+                "southwest"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "45-60",
+            "weight": 100.0,
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#tfc:common",
+                    "#tfc:badlands"
+                ]
+            }
+        }
+    ]
+}

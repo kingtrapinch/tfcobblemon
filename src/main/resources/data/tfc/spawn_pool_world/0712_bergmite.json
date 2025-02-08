@@ -1,0 +1,83 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "bergmite-tfc-1",
+            "pokemon": "bergmite",
+            "presets": [
+                "ice"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "20-40",
+            "weight": 100.0,
+            "condition": {                
+                "biomes": [
+                    "#tfc:common",
+                    "#tfc:marshes"
+                ]
+            }
+        },
+        {
+            "id": "bergmite-tfc-2",
+            "pokemon": "bergmite",
+            "presets": [
+                "cold_water"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "20-40",
+            "weight": 100.0,
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#tfc:common",
+                    "#tfc:marshes"
+                ]
+            }
+        },
+        {
+            "id": "bergmite-tfc-3",
+            "pokemon": "bergmite",
+            "presets": [
+                "cold"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "20-40",
+            "weight": 30.0,
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#tfc:shores"
+                ]
+            }
+        },
+        {
+            "id": "bergmite-tfc-4",
+            "pokemon": "bergmite",
+            "presets": [
+                "cold"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "20-40",
+            "weight": 100.0,
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#tfc:freshwater"
+                ]
+            }
+        }
+    ]
+}

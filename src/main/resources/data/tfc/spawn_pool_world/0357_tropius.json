@@ -1,0 +1,27 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "tropius-tfc-1",
+            "pokemon": "tropius",
+            "presets": [
+                "southeast"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "50-65",
+            "weight": 100.0,
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#tfc:common",
+                    "#tfc:badlands"
+                ]
+            }
+        }
+    ]
+}

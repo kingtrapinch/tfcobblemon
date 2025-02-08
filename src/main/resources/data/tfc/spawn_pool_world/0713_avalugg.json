@@ -1,0 +1,66 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "avalugg-tfc-1",
+            "pokemon": "avalugg",
+            "presets": [
+                "ice"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "50-75",
+            "weight": 100.0,
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#tfc:common",
+                    "#tfc:marshes"
+                ]
+            }
+        },
+        {
+            "id": "avalugg-tfc-2",
+            "pokemon": "avalugg",
+            "presets": [
+                "cold_water"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "50-75",
+            "weight": 100.0,
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#tfc:common",
+                    "#tfc:marshes"
+                ]
+            }
+        },
+        {
+            "id": "avalugg-tfc-3",
+            "pokemon": "avalugg",
+            "presets": [
+                "cold"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "20-40",
+            "weight": 50.0,
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#tfc:shores"
+                ]
+            }
+        }
+    ]
+}

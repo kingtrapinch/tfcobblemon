@@ -1,0 +1,28 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "sneasel-tfc-1",
+            "pokemon": "sneasel",
+            "presets": [
+                "cold"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "20-40",
+            "weight": 50.0,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "timeRange": "night",
+                "biomes": [
+                    "#tfc:common",
+                    "tfc:badlands"
+                ]
+            }
+        }
+    ]
+}

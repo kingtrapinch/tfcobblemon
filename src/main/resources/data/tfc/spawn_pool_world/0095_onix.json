@@ -1,0 +1,46 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "onix-tfc-1",
+            "pokemon": "onix",
+            "presets": [
+                "rocky"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "45-60",
+            "weight": 10.0,
+            "condition": {
+                "maxY": 50,
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "#tfc:all"
+                ]
+            }
+        },
+        {
+            "id": "onix-tfc-2",
+            "pokemon": "onix",
+            "presets": [
+                "seasonal"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "20-45",
+            "weight": 10.0,
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#tfc:badlands"
+                ]
+            }
+        }
+    ]
+}
