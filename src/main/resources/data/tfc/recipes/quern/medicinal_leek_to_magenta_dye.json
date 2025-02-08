@@ -1,0 +1,10 @@
+{
+    "type": "tfc:quern",
+    "ingredient": {
+      "item": "cobblemon:medicinal_leek"
+    },
+    "result": {
+      "item": "minecraft:magenta_dye",
+      "count": 2
+    }
+  }

@@ -1,0 +1,17 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "cobblemon:apricorns"
+        },
+        {
+            "item": "cobblemon:black_tumblestone"
+        }
+    ],
+    "result": {
+        "item": "cobblemon:ancient_heavy_ball",
+        "count": 1
+    }
+}
+

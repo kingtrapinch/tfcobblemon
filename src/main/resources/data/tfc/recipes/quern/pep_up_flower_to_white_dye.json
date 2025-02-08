@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "cobblemon:pep_up_flower"
+  },
+  "result": {
+    "item": "minecraft:white_dye",
+    "count": 2
+  }
+}

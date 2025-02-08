@@ -1,0 +1,17 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "cobblemon:yellow_apricorn"
+        },
+        {
+            "item": "cobblemon:tumblestone"
+}
+    ],
+    "result": {
+        "item": "cobblemon:ancient_citrine_ball",
+        "count": 1
+    }
+}
+
