@@ -1,5 +1,5 @@
 {
-  "replace": true,
+  "__comment__": "This file was automatically created by mcresources",
   "type": "minecraft:block",
   "pools": [
     {
@@ -15,16 +15,6 @@
               "conditions": [
                 {
                   "condition": "tfc:is_isolated"
-                }
-              ]
-            },
-            {
-              "type": "minecraft:item",
-              "name": "cobblemon:moon_stone",
-              "conditions": [
-                {
-                  "condition": "minecraft:random_chance",
-                  "chance": 0.04
                 }
               ]
             },
@@ -48,6 +38,22 @@
       "conditions": [
         {
           "condition": "minecraft:survives_explosion"
+        }
+      ]
+    },
+    {
+      "name": "bonus_drop_pool",
+      "rolls": 1,
+      "conditions": [
+        {
+          "condition": "minecraft:random_chance",
+          "chance": 0.02
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cobblemon:moon_stone"
         }
       ]
     }

@@ -7,22 +7,21 @@
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "cobblemon:sun_stone",
-          "conditions": [
+          "type": "minecraft:alternatives",
+          "children": [
             {
-              "condition": "minecraft:random_chance",
-              "chance": 0.06
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "tfc:raw_sandstone/red",
-          "conditions": [
+              "type": "minecraft:item",
+              "name": "cobblemon:sun_stone",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.02
+                }
+              ]
+            },
             {
-              "condition": "minecraft:random_chance",
-              "chance": 0.94
+              "type": "minecraft:item",
+              "name": "tfc:raw_sandstone/red"
             }
           ]
         }
