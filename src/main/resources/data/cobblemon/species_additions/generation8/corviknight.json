@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:corviknight",
+  "implemented": true,
+  "drops": {
+    "amount": 10,
+    "entries": [
+      {
+        "item": "cobblemon:resist_feather",
+        "quantityRange": "4-10"
+      }
+    ]
+  }
+}

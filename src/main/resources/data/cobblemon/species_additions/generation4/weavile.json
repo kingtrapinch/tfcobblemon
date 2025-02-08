@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:weavile",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "cobblemon:razor_claw",
+        "percentage": 25
+      },
+      {
+        "item": "cobblemon:quick_claw",
+        "percentage": 10
+      }
+    ]
+  }
+}

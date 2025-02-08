@@ -1,0 +1,79 @@
+{
+  "target":"cobblemon:scyther",
+  "implemented": true,
+  "evolutions": [
+    {
+      "id": "scyther_scizor_iron",
+      "variant": "trade",
+      "result": "scizor",
+      "consumeHeldItem": true,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "tfc:metal/double_ingot/wrought_iron"
+        }
+      ]
+    },
+    {
+      "id": "scyther_scizor_red",
+      "variant": "trade",
+      "result": "scizor steel=red",
+      "consumeHeldItem": true,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "tfc:metal/double_ingot/red_steel"
+        }
+      ]
+    },
+    {
+      "id": "scyther_scizor_blue",
+      "variant": "trade",
+      "result": "scizor steel=blue",
+      "consumeHeldItem": true,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "tfc:metal/double_ingot/blue_steel"
+          
+        }
+      ]
+    },
+    {
+      "id": "scyther_scizor_black",
+      "variant": "trade",
+      "result": "scizor steel=black",
+      "consumeHeldItem": true,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "tfc:metal/double_ingot/black_steel"
+        }
+      ]
+    },
+    {
+      "id": "scyther_kleavor",
+      "variant": "item_interact",
+      "result": "kleavor",
+      "consumeHeldItem": false,
+      "learnableMoves": [
+        "stoneaxe"
+      ],
+      "requirements": [],
+      "requiredContext": "cobblemon:black_augurite"
+    }
+  ],
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:string",
+        "quantityRange": "1-3"
+      }
+    ]
+  }
+}

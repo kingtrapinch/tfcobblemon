@@ -1,0 +1,43 @@
+{
+  "species": "cobblemon:scizor",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": [
+        "female",
+        "steel-red"
+      ],
+      "poser": "cobblemon:scizor",
+      "model": "cobblemon:scizor_female.geo",
+      "texture": "cobblemon:textures/pokemon/0212_scizor/scizor_redsteel.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "female",
+        "steel-blue"
+      ],
+      "poser": "cobblemon:scizor",
+      "model": "cobblemon:scizor_female.geo",
+      "texture": "cobblemon:textures/pokemon/0212_scizor/scizor_bluesteel.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "female",
+        "steel-black"
+      ],
+      "poser": "cobblemon:scizor",
+      "model": "cobblemon:scizor_female.geo",
+      "texture": "cobblemon:textures/pokemon/0212_scizor/scizor_blacksteel.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0212_scizor/scizor_shiny.png"
+    }
+  ]
+}

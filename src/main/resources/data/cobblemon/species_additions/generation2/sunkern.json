@@ -1,11 +1,11 @@
 {
-  "target": "cobblemon:natu",
+  "target": "cobblemon:sunkern",
   "implemented": true,
   "drops": {
-    "amount": 2,
+    "amount": 3,
     "entries": [
       {
-        "item": "cobblemon:swift_feather",
+        "item": "tfc:seeds/sugarcane",
         "quantityRange": "0-2"
       }
     ]

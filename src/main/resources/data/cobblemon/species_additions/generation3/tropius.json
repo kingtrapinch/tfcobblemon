@@ -1,0 +1,45 @@
+{
+  "target": "cobblemon:tropius",
+  "implemented": true,
+  "drops": {
+    "amount": 11,
+    "entries": [
+      {
+        "item": "tfc:wood/wood/palm",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:wood/sapling/palm",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "tfc:plant/green_apple_sapling",
+        "percentage": 1
+      },
+      {
+        "item": "tfc:plant/red_apple_sapling",
+        "percentage": 1
+      },
+      {
+        "item": "tfc:plant/lemon_sapling",
+        "percentage": 1
+      },
+      {
+        "item": "tfc:plant/orange_sapling",
+        "percentage": 1
+      },
+      {
+        "item": "tfc:plant/peach_sapling",
+        "percentage": 1
+      },
+      {
+        "item": "tfc:plant/plum_sapling",
+        "percentage": 1
+      },
+      {
+        "item": "tfc:plant/banana",
+        "percentage": 2
+      }
+    ]
+  }
+}

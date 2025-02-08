@@ -1,0 +1,39 @@
+{
+  "species": "cobblemon:steelix",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": [
+        "steel-red"
+      ],
+      "poser": "cobblemon:steelix",
+      "model": "cobblemon:steelix.geo",
+      "texture": "cobblemon:textures/pokemon/0208_steelix/steelix_redsteel.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "steel-blue"
+      ],
+      "poser": "cobblemon:steelix",
+      "model": "cobblemon:steelix.geo",
+      "texture": "cobblemon:textures/pokemon/0208_steelix/steelix_bluesteel.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "steel-black"
+      ],
+      "poser": "cobblemon:steelix",
+      "model": "cobblemon:steelix.geo",
+      "texture": "cobblemon:textures/pokemon/0208_steelix/steelix_blacksteel.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0208_steelix/steelix_shiny.png"
+    }
+  ]
+}

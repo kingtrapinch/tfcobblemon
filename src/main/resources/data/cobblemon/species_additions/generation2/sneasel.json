@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:sneasel",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "cobblemon:razor_claw",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:quick_claw",
+        "percentage": 5
+      }
+    ]
+  }
+}

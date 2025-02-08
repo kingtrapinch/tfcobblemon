@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:mamoswine",
+  "implemented": true,
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "tfc:large_raw_hide",
+        "quantityRange": "2-3"
+      },
+      {
+        "item": "tfc:food/pork",
+        "quantityRange": "1-3"
+      }
+    ]
+  }
+}

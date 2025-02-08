@@ -2,15 +2,15 @@
   "target": "cobblemon:psyduck",
   "implemented": true,
   "drops": {
-    "amount": 3,
+    "amount": 4,
     "entries": [
       {
         "item": "tfc:food/duck",
         "quantityRange": "0-1"
       },
       {
-        "item": "minecraft:feather",
-        "quantityRange": "0-2"
+        "item": "cobblemon:genius_feather",
+        "quantityRange": "0-3"
       }
     ]
   }

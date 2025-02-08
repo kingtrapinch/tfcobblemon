@@ -1,0 +1,68 @@
+{
+  "target":"cobblemon:onix",
+  "implemented": true,
+  "evolutions": [
+    {
+      "id": "onix_steelix_iron",
+      "variant": "trade",
+      "result": "steelix",
+      "consumeHeldItem": true,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "tfc:metal/double_ingot/wrought_iron"
+        }
+      ]
+    },
+    {
+      "id": "onix_steelix_red",
+      "variant": "trade",
+      "result": "steelix steel=red",
+      "consumeHeldItem": true,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "tfc:metal/double_ingot/red_steel"
+        }
+      ]
+    },
+    {
+      "id": "onix_steelix_blue",
+      "variant": "trade",
+      "result": "steelix steel=blue",
+      "consumeHeldItem": true,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "tfc:metal/double_ingot/blue_steel"
+          
+        }
+      ]
+    },
+    {
+      "id": "onix_steelix_black",
+      "variant": "trade",
+      "result": "steelix steel=black",
+      "consumeHeldItem": true,
+      "learnableMoves": [],
+      "requirements": [
+        {
+          "variant": "held_item",
+          "itemCondition": "tfc:metal/double_ingot/black_steel"
+        }
+      ]
+    }
+  ],
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "tfc:rock/raw/andesite",
+        "quantityRange": "1-5"
+      }
+    ]
+  }
+}

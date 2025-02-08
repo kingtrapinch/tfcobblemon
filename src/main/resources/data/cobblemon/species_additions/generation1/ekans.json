@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:ekans",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:small_raw_hide",
+        "quantityRange": "0-1"
+      },
+      {
+        "item": "minecraft:rotten_flesh",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

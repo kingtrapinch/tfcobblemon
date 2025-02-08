@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:falinks",
+  "implemented": true,
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "cobblemon:muscle_band",
+        "percentage": 10
+      },
+      {
+        "item": "cobblemon:focus_band",
+        "percentage": 10
+      }
+    ]
+  }
+}

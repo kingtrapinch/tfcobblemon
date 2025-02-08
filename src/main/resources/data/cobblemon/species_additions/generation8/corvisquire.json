@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:corvisquire",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "cobblemon:resist_feather",
+        "quantityRange": "2-4"
+      }
+    ]
+  }
+}

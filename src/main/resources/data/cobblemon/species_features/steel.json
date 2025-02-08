@@ -1,0 +1,12 @@
+{
+  "type": "choice",
+  "keys": ["steel"],
+  "default": false,
+  "choices": [
+    "red",
+    "blue",
+    "black"
+  ],
+  "isAspect": true,
+  "aspectFormat": "steel-{{choice}}"
+}

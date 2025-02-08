@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:cryogonal",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "minecraft:blue_ice",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "cobblemon:never_melt_ice",
+        "percentage": 10
+      }
+    ]
+  }
+}

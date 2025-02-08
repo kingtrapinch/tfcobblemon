@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:sunflora",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "tfc:food/sugarcane",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "cobblemon:pep_up_flower",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

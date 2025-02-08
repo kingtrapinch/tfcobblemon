@@ -1,12 +1,12 @@
 {
-  "target": "cobblemon:natu",
+  "target": "cobblemon:taillow",
   "implemented": true,
   "drops": {
-    "amount": 2,
+    "amount": 3,
     "entries": [
       {
         "item": "cobblemon:swift_feather",
-        "quantityRange": "0-2"
+        "quantityRange": "0-3"
       }
     ]
   }

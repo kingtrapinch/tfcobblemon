@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:aurorus",
+  "implemented": true,
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "tfc:large_raw_hide",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:food/beef",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:never_melt_ice",
+        "percentage": 25
+      }
+    ]
+  }
+}

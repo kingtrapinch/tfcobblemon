@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:stantler",
+  "implemented": true,
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "tfc:medium_raw_hide",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:food/venison",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "cobblemon:normal_gem",
+        "percentage": 10.0
+      }
+    ]
+  }
+}

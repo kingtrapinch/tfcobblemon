@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:staravia",
+  "implemented": true,
+  "drops": {
+    "amount": 4,
+    "entries": [
+      {
+        "item": "cobblemon:health_feather",
+        "quantityRange": "2-4"
+      }
+    ]
+  }
+}

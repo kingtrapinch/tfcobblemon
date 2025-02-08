@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:eiscue",
+  "implemented": true,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "tfc:sea_ice",
+        "percentage": 50
+      },
+      {
+        "item": "tfc:food/cod",
+        "percentage": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:avalugg",
+  "implemented": true,
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "tfc:icicle",
+        "quantityRange": "3-4"
+      },
+      {
+        "item": "tfc:sea_ice",
+        "quantityRange": "1-2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:stonjourner",
+  "implemented": true,
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "tfc:rock/hardened/andesite",
+        "quantityRange": "2-4"
+      },
+      {
+        "item": "cobblemon:everstone",
+        "percentage": 10
+      }
+    ]
+  }
+}

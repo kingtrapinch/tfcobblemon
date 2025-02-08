@@ -2,15 +2,11 @@
   "target": "cobblemon:xatu",
   "implemented": true,
   "drops": {
-    "amount": 5,
+    "amount": 8,
     "entries": [
       {
-        "item": "minecraft:feather",
-        "quantityRange": "1-3"
-      },
-      {
-        "item": "tfc:food/chicken",
-        "quantityRange": "1-2"
+        "item": "cobblemon:clever_feather",
+        "quantityRange": "3-8"
       }
     ]
   }

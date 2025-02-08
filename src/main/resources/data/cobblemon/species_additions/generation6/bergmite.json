@@ -1,0 +1,17 @@
+{
+  "target": "cobblemon:bergmite",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:icicle",
+        "quantityRange": "1-2"
+      },
+      {
+        "item": "tfc:sea_ice",
+        "percentage": 10
+      }
+    ]
+  }
+}
