@@ -1,0 +1,24 @@
+{
+  "type": "choice",
+  "keys": ["dye"],
+  "default": "none",
+  "choices": [
+    "white",
+    "orange",
+    "magenta",
+    "lightblue",
+    "yellow",
+    "lime",
+    "pink",
+    "gray",
+    "cyan",
+    "purple",
+    "blue",
+    "green",
+    "red",
+    "black"
+  ],
+  "isAspect": true,
+  "visible": true,
+  "aspectFormat": "dye-{{choice}}"
+}
