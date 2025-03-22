@@ -12,6 +12,7 @@ ItemEvents.rightClicked(event => {
         const playerName = event.player.username;
         const dye = itemId.replace("tfcobblemon:golett_", ""); 
         event.server.runCommandSilent(`pokegiveother ${playerName} golett level=10 pokeball=ancient_poke_ball dye=${dye}`);
+        Utils.server.runCommandSilent(`/playsound tfc:item.ceramic.break block ${event.player.username} ${event.player.x} ${event.player.y} ${event.player.z} 3`)
         event.item.count--;
     }
 });

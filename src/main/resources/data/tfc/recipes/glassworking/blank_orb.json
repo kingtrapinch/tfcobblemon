@@ -1,0 +1,16 @@
+{
+  "type": "tfc:glassworking",
+  "operations": [
+    "amethyst",
+    "blow",
+    "roll",
+    "blow",
+    "roll"
+  ],
+  "batch": {
+    "tag": "tfc:glass_batches"
+  },
+  "result": {
+    "item": "tfcobblemon:blank_orb"
+  }
+}

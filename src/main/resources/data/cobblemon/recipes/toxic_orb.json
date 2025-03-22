@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tfcobblemon:blank_orb"
+        },
+        {
+            "item": "minecraft:fermented_spider_eye"
+        },
+        {
+            "item": "cobblemon:black_sludge"
+        }
+    ],
+    "result": {
+        "item": "cobblemon:toxic_orb",
+        "count": 1
+    }
+}

@@ -2,6 +2,7 @@ package com.kingtrapinch.tfcobblemon;
 
 import com.kingtrapinch.tfcobblemon.item.ModCreativeModTabs;
 import com.kingtrapinch.tfcobblemon.item.ModItems;
+import com.kingtrapinch.tfcobblemon.item.custom.GolettItem;
 import com.mojang.logging.LogUtils;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -3062,7 +3063,7 @@ public class TFCobblemon
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
-            event.accept(ModItems.GOLETT);
+            event.accept(GolettItem.GOLETT);
         }
     }
 

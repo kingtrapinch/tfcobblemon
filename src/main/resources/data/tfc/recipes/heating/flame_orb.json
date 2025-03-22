@@ -1,0 +1,10 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfcobblemon:blank_orb"
+  },
+  "result_item": {
+      "item": "cobblemon:flame_orb"
+  },
+  "temperature": 1500
+}

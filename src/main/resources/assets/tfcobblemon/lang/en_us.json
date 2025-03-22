@@ -1,6 +1,14 @@
 {
   "creativetab.tfcobblemon_tab" : "TFC-Cobblemon Items",
 
+  "item.tfcobblemon.blank_orb" : "Blank Orb",
+  "tooltip.tfcobblemon.blank_orb":"A smooth glass orb. Right-click in hand to begin charging into Life Orb",
+
+  "item.tfcobblemon.life_orb_charging": "Blank Orb (Charging)",
+  "tooltip.tfcobblemon.life_orb_charging": "Kill 100 Pokemon to charge up orb. Once fully charged, right-click in hand to activate into Life Orb",
+
+  "tooltip.tfcobblemon.golett" : "A suspiciously life-like vessel... Did it just move?",
+
   "item.tfcobblemon.golett" : "Suspicious Vessel",
   "item.tfcobblemon.golett_black" : "Suspicious Black Vessel",
   "item.tfcobblemon.golett_blue" : "Suspicious Blue Vessel",
