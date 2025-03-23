@@ -4,8 +4,7 @@
     "amethyst",
     "blow",
     "roll",
-    "blow",
-    "roll"
+    "pinch"
   ],
   "batch": {
     "tag": "tfc:glass_batches"
