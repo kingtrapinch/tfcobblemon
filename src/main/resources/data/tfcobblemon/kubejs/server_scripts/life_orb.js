@@ -3,6 +3,7 @@
 ItemEvents.rightClicked('tfcobblemon:blank_orb', event=> {
         if (event.player.mainHandItem.id == "tfcobblemon:blank_orb") {
             event.player.mainHandItem = Item.of('tfcobblemon:life_orb_charging', '{Damage:100}');
+            Utils.server.runCommandSilent(`/playsound minecraft:entity.allay.ambient_with_item block ${event.player.username} ${event.player.x} ${event.player.y} ${event.player.z} 3`)
     }
 })
 
