@@ -4,6 +4,15 @@
   "variations": [
     {
       "aspects": [
+        "female"
+      ],
+      "poser": "cobblemon:scizor",
+      "model": "cobblemon:scizor_female.geo",
+      "texture": "cobblemon:textures/pokemon/0212_scizor/scizor_iron.png",
+      "layers": []
+    },
+    {
+      "aspects": [
         "female",
         "steel-red"
       ],
