@@ -17,13 +17,15 @@ ItemEvents.rightClicked('tfcobblemon:life_orb_charging', event=> {
 })
 
 EntityEvents.death('cobblemon:pokemon', event => {
-  console.log("pokemon died")
-  let nearestPlayer = event.level.getNearestPlayer(event.entity, 25)
-  if (nearestPlayer !== null) {
-    let orb = nearestPlayer.inventory.getItem(nearestPlayer.inventory.find('tfcobblemon:life_orb_charging'))
-    if (orb.damageValue >= 1) {
-        orb.damageValue--;
-        Utils.server.runCommandSilent(`/playsound minecraft:block.amethyst_cluster.hit block ${nearestPlayer.username} ${nearestPlayer.x} ${nearestPlayer.y} ${nearestPlayer.z} 3`)
+    let nearestPlayer = event.level.getNearestPlayer(event.entity, 25);
+    if (nearestPlayer !== null) {
+        let index = nearestPlayer.inventory.find('tfcobblemon:life_orb_charging');
+        if (index !== -1) {  
+            let orb = nearestPlayer.inventory.getItem(index);
+            if (orb.damageValue >= 1) {
+                orb.damageValue--;
+                Utils.server.runCommandSilent(`/playsound minecraft:block.amethyst_cluster.hit block ${nearestPlayer.username} ${nearestPlayer.x} ${nearestPlayer.y} ${nearestPlayer.z} 3`);
+            }
+        }
     }
-  }
-})
+});

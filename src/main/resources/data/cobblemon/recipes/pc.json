@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SGS",
+        "IMI",
+        "IBI"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:glass"
+        },
+        "S": {
+            "item": "tfc:metal/sheet/wrought_iron"
+        },
+        "I": {
+            "item": "tfc:metal/block/wrought_iron"
+        },
+        "M": {
+            "item": "tfc:brass_mechanisms"
+        },
+        "B": {
+            "tag": "tfc:barrels"
+        }
+    },
+    "result": {
+        "item": "cobblemon:pc",
+        "count": 1
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PIP",
+        "IBI",
+        "MIM"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:blaze_powder"
+        },
+        "I": {
+            "item": "tfc:metal/sheet/wrought_iron"
+        },
+        "B": {
+            "item": "tfc:metal/bars/wrought_iron"
+        },
+        "M": {
+            "item": "tfc:rock/magma/basalt"
+        }
+    },
+    "result": {
+        "item": "cobblemon:magmarizer",
+        "count": 1
+    }
+}

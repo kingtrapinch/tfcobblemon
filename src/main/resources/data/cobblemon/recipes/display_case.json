@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ggg",
+        "g g",
+        "sws"
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:glass_pane"
+        },
+        "s": {
+            "tag": "forge:smooth_stone_slab"
+        },
+        "w": {
+            "tag": "minecraft:wool"
+        }
+    },
+    "result": {
+        "item": "cobblemon:display_case",
+        "count": 1
+    }
+}

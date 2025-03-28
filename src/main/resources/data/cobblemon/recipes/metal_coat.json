@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tfc:metal/double_ingot/wrought_iron"
+        }
+    ],
+    "result": {
+        "item": "cobblemon:metal_coat",
+        "count": 1
+    }
+}

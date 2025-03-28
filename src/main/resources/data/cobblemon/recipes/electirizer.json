@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RIR",
+        "IBI",
+        "CIC"
+    ],
+    "key": {
+        "C": {
+            "tag": "tfcobblemon:copper_powder"
+        },
+        "I": {
+            "item": "tfc:metal/sheet/wrought_iron"
+        },
+        "B": {
+            "item": "tfc:metal/bars/wrought_iron"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        }
+    },
+    "result": {
+        "item": "cobblemon:electirizer",
+        "count": 1
+    }
+}
