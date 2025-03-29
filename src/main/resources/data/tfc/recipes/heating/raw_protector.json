@@ -1,0 +1,11 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfcobblemon:raw_protector"
+  },
+  "result_item": {
+    "item": "cobblemon:protector"
+  },
+  "temperature": 1399
+}

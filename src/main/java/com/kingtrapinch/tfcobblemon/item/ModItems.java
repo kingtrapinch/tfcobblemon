@@ -14,6 +14,9 @@ public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, TFCobblemon.MODID);
 
+    public static final RegistryObject<Item> RAW_PROTECTOR = ITEMS.register("raw_protector",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
         GolettItem.registerAll(eventBus);

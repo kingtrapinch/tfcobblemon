@@ -22,7 +22,7 @@ public class ModCreativeModTabs {
                 .displayItems((pParameters, pOutput) -> {
                     pOutput.accept(BlankOrbItem.BLANK_ORB.get());
                     pOutput.accept(LifeOrbItem.LIFE_ORB_CHARGING.get());
-
+                    pOutput.accept(ModItems.RAW_PROTECTOR.get());
 
                     pOutput.accept(GolettItem.GOLETT.get());
                     pOutput.accept(GolettItem.GOLETT_BLACK.get());
