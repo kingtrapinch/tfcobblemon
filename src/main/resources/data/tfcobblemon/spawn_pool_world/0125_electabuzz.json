@@ -1,0 +1,33 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "electabuzz-tfc-1",
+            "pokemon": "electabuzz",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "20-55",
+            "weight": 10.0,
+            "weightMultiplier": {
+                "multiplier": 5.0,
+                "condition": {
+                    "isThundering": true
+                }
+            },
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#tfc:high_altitude"
+                ]
+            }
+            
+        }
+    ]
+}

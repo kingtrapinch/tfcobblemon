@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:gengar",
+  "implemented": true,
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "minecraft:ghast_tear",
+        "quantityRange": "2-5"
+      }
+    ]
+  }
+}

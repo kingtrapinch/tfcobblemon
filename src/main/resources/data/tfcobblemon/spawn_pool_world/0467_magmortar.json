@@ -1,0 +1,26 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "magmortar-tfc-1",
+            "pokemon": "magmortar",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "55-75",
+            "weight": 10.0,
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#tfc:volcanic"
+                ]
+            }
+        }
+    ]
+}

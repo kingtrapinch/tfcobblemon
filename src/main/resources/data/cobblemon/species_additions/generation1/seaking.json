@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:seaking",
+  "implemented": true,
+  "drops": {
+    "amount": 3,
+    "entries": [
+      {
+        "item": "tfc:food/rainbow_trout",
+        "quantityRange": "0-3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "clauncher-tfc-1",
+            "pokemon": "clauncher",
+            "presets": [
+                "underwater"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "common",
+            "level": "25-40",
+            "weight": 10.0,
+            "condition": {                
+                "canSeeSky": true,
+                "biomes": [
+                    "tfc:ocean", 
+                    "tfc:deep_ocean", 
+                    "tfc:deep_ocean_trench"
+                ]
+            }
+        }
+    ]
+}

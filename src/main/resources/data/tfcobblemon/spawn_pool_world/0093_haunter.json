@@ -1,0 +1,27 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "haunter-tfc-1",
+            "pokemon": "haunter",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "20-55",
+            "weight": 10.0,
+            "condition": {
+                "timeRange": "night",
+                "biomes": [
+                    "#tfc:common",
+                    "#tfc:marshes",
+                    "#tfc:freshwater"
+                ]
+            }
+        }
+    ]
+}

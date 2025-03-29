@@ -1,0 +1,21 @@
+{
+  "target": "cobblemon:magmortar",
+  "implemented": true,
+  "drops": {
+    "amount": 8,
+    "entries": [
+      {
+        "item": "tfc:large_raw_hide",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "tfc:food/gran_feline",
+        "quantityRange": "0-2"
+      },
+      {
+        "item": "minecraft:blaze_powder",
+        "quantityRange": "2-4"
+      }
+    ]
+  }
+}

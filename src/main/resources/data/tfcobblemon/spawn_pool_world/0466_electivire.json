@@ -1,0 +1,27 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "electivire-tfc-1",
+            "pokemon": "electivire",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "55-75",
+            "weight": 10.0,
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#tfc:high_altitude"
+                ]
+            }
+            
+        }
+    ]
+}

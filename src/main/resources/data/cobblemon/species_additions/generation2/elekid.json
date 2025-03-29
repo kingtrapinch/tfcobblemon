@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:elekid",
+  "implemented": true,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:glowstone_dust",
+        "quantityRange": "0-2"
+      }
+    ]
+  }
+}

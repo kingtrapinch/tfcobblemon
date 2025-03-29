@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:magby",
+  "implemented": true,
+  "drops": {
+    "amount": 2,
+    "entries": [
+      {
+        "item": "minecraft:blaze_powder",
+        "quantityRange": "0-2"
+      }
+    ]
+  }
+}

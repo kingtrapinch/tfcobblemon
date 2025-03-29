@@ -1,0 +1,13 @@
+{
+  "target": "cobblemon:goldeen",
+  "implemented": true,
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "tfc:food/rainbow_trout",
+        "quantityRange": "0-1"
+      }
+    ]
+  }
+}

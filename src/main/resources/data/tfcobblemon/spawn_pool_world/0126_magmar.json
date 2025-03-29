@@ -1,0 +1,26 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "magmar-tfc-1",
+            "pokemon": "magmar",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "20-55",
+            "weight": 10.0,
+            "condition": {                
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#tfc:volcanic"
+                ]
+            }
+        }
+    ]
+}
