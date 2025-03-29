@@ -1,0 +1,27 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "corphish-tfc-1",
+            "pokemon": "corphish",
+            "presets": [
+                "warm_water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "common",
+            "level": "15-30",
+            "weight": 10.0,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "tfc:lowlands",
+                    "#tfc:freshwater"
+                ]
+            }
+        }
+    ]
+}
