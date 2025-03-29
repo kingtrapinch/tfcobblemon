@@ -10,7 +10,7 @@
                 "warm_water"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "context": "surface",
             "bucket": "uncommon",
             "level": "20-45",
             "weight": 10.0,

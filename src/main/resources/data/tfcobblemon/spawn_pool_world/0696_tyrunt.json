@@ -12,13 +12,13 @@
             "type": "pokemon",
             "context": "grounded",
             "bucket": "common",
-            "level": "5-20",
+            "level": "15-30",
             "weight": 10.0,
             "condition": {                
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
                 "biomes": [
-                    "#tfc:low_altitude"
+                    "#tfc:mid_altitude"
                 ]
             }
         }

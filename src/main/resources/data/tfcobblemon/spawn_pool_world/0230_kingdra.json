@@ -10,7 +10,7 @@
                 "underwater"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "context": "submerged",
             "bucket": "rare",
             "level": "40-60",
             "weight": 10.0,

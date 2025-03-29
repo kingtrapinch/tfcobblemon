@@ -10,7 +10,7 @@
                 "warm_water"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "context": "surface",
             "bucket": "common",
             "level": "5-20",
             "weight": 10.0,
@@ -18,7 +18,8 @@
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
                 "biomes": [
-                    "#tfc:marshes"
+                    "#tfc:marshes",
+                    "#tfc:freshwater"
                 ]
             }
         }

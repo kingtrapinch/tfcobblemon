@@ -10,9 +10,9 @@
                 "underwater"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "context": "submerged",
             "bucket": "common",
-            "level": "5-20",
+            "level": "25-35",
             "weight": 10.0,
             "condition": {
                 "timeRange": "night",
@@ -28,10 +28,10 @@
                 "underwater"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "context": "submerged",
             "bucket": "common",
-            "level": "5-20",
-            "weight": 10.0,
+            "level": "25-35",
+            "weight": 20.0,
             "condition": {
                 "canSeeSky": "false",
                 "minSkyLight": 0,

@@ -12,7 +12,7 @@
             "type": "pokemon",
             "context": "grounded",
             "bucket": "uncommon",
-            "level": "5-20",
+            "level": "15-30",
             "weight": 10.0,
             "condition": {                
                 "minSkyLight": 8,

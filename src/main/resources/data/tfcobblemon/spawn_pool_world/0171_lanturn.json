@@ -10,7 +10,7 @@
                 "underwater"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "context": "submerged",
             "bucket": "uncommon",
             "level": "20-45",
             "weight": 10.0,
@@ -28,7 +28,7 @@
                 "underwater"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "context": "submerged",
             "bucket": "common",
             "level": "20-45",
             "weight": 20.0,

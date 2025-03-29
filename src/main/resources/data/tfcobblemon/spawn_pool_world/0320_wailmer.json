@@ -10,14 +10,16 @@
                 "underwater"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "context": "submerged",
             "bucket": "common",
             "level": "5-45",
             "weight": 10.0,
             "condition": {                
                 "canSeeSky": true,
                 "biomes": [
-                    "#tfc:oceans"
+                    "tfc:ocean", 
+                    "tfc:deep_ocean", 
+                    "tfc:deep_ocean_trench"
                 ]
             }
         }

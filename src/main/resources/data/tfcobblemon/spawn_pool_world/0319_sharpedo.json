@@ -10,9 +10,9 @@
                 "underwater"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "context": "submerged",
             "bucket": "common",
-            "level": "20-55",
+            "level": "35-55",
             "weight": 10.0,
             "condition": {                
                 "canSeeSky": true,

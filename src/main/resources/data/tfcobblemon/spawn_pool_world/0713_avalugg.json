@@ -18,8 +18,7 @@
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
                 "biomes": [
-                    "#tfc:common",
-                    "#tfc:marshes"
+                    "#tfc:oceans"
                 ]
             }
         },
@@ -38,8 +37,7 @@
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
                 "biomes": [
-                    "#tfc:common",
-                    "#tfc:marshes"
+                    "#tfc:oceans"
                 ]
             }
         },

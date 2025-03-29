@@ -12,13 +12,30 @@
             "type": "pokemon",
             "context": "grounded",
             "bucket": "uncommon",
-            "level": "20-55",
+            "level": "30-55",
             "weight": 10.0,
             "condition": {                
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
                 "biomes": [
                     "#tfc:tidal"
+                ]
+            }
+        },
+        {
+            "id": "cradily-tfc-2",
+            "pokemon": "cradily",
+            "presets": [
+                "underwater"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "common",
+            "level": "45-60",
+            "weight": 10.0,
+            "condition": {                
+                "biomes": [
+                    "tfc:ocean_reef"
                 ]
             }
         }

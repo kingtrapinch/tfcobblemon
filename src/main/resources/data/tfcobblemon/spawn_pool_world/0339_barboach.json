@@ -10,9 +10,9 @@
                 "warm_water"
             ],
             "type": "pokemon",
-            "context": "grounded",
+            "context": "submerged",
             "bucket": "common",
-            "level": "5-20",
+            "level": "15-30",
             "weight": 10.0,
             "condition": {                
                 "minSkyLight": 8,
