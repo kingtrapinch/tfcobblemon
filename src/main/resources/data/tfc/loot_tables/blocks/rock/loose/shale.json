@@ -12,7 +12,20 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 2,
+              "count": 0,
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "tfc:rock/loose/shale",
+                  "properties": {
+                    "count": "1"
+                  }
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_count",
+              "count": 1,
               "conditions": [
                 {
                   "condition": "minecraft:block_state_property",
@@ -25,7 +38,7 @@
             },
             {
               "function": "minecraft:set_count",
-              "count": 3,
+              "count": 2,
               "conditions": [
                 {
                   "condition": "minecraft:block_state_property",
@@ -51,16 +64,25 @@
     {
       "name": "bonus_drop_pool",
       "rolls": 1,
-      "conditions": [
-        {
-          "condition": "minecraft:random_chance",
-          "chance": 0.1
-        }
-      ],
       "entries": [
         {
-          "type": "minecraft:item",
-          "name": "cobblemon:tumblestone"
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "name": "cobblemon:tumblestone",
+              "conditions": [
+                {
+                  "condition": "minecraft:random_chance",
+                  "chance": 0.1
+                }
+              ]
+            },
+            {
+              "type": "minecraft:item",
+              "name": "tfc:rock/loose/shale"
+            }
+          ]
         }
       ]
     }
