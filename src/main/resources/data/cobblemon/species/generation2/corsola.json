@@ -18,6 +18,15 @@
     "special_defence": 95,
     "speed": 35
   },
+  "drops": {
+        "amount": 2,
+        "entries": [
+          {
+            "item": "tfc:coral/brain_coral_fan",
+            "quantityRange": "1-2"
+          }
+        ]
+      },
   "features": [
     "galarian"
   ],
@@ -160,15 +169,11 @@
       "cannotDynamax": false,
       "battleOnly": false,
       "drops": {
-        "amount": 3,
+        "amount": 2,
         "entries": [
           {
             "item": "tfc:coral/brain_dead_coral_fan",
             "quantityRange": "1-2"
-          },
-          {
-            "item": "tfc:coral/brain_coral_fan",
-            "percentage": 10
           }
         ]
       }
@@ -380,14 +385,5 @@
   "height": 6,
   "weight": 50,
   "aspects": [],
-  "cannotDynamax": false,
-  "drops": {
-    "amount": 1,
-    "entries": [
-      {
-        "item": "cobblemon:rindo_berry",
-        "percentage": 5.0
-      }
-    ]
-  }
+  "cannotDynamax": false
 }

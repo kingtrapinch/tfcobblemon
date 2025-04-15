@@ -5,14 +5,14 @@
     "spawns": [
         {
             "id": "lilligant-tfc-1",
-            "pokemon": "lilligant",
+            "pokemon": "lilligant hisuian",
             "presets": [
                 "seasonal"
             ],
             "type": "pokemon",
             "context": "grounded",
-            "bucket": "uncommon",
-            "level": "20-45",
+            "bucket": "rare",
+            "level": "30-55",
             "weight": 10.0,
             "condition": {
                 "minSkyLight": 8,

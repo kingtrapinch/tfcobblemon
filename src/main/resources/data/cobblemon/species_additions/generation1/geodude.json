@@ -2,15 +2,11 @@
   "target": "cobblemon:geodude",
   "implemented": true,
   "drops": {
-    "amount": 5,
+    "amount": 2,
     "entries": [
       {
         "item": "tfc:rock/loose/andesite",
-        "quantityRange": "1-4"
-      },
-      {
-        "item": "tfc:ore/tetrahedrite_sphalerite",
-        "percentage": 10
+        "quantityRange": "1-2"
       }
     ]
   }

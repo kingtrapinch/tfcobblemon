@@ -6,7 +6,7 @@
     "entries": [
       {
         "item": "minecraft:ghast_tear",
-        "quantityRange": "0-1"
+        "percentage": 25.0
       }
     ]
   }

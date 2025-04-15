@@ -2,11 +2,11 @@
   "target": "cobblemon:haunter",
   "implemented": true,
   "drops": {
-    "amount": 3,
+    "amount": 2,
     "entries": [
       {
         "item": "minecraft:ghast_tear",
-        "quantityRange": "0-3"
+        "quantityRange": "0-2"
       }
     ]
   }

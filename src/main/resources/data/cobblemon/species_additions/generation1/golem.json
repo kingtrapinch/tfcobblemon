@@ -7,10 +7,6 @@
       {
         "item": "tfc:rock/raw/andesite",
         "quantityRange": "1-2"
-      },
-      {
-        "item": "tfc:ore/normal_tetrahedrite",
-        "percentage": 50
       }
     ]
   }

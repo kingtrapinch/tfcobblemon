@@ -4,8 +4,8 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "lucario-tfc-1",
-            "pokemon": "lucario",
+            "id": "riolu-tfc-1",
+            "pokemon": "riolu",
             "presets": [
                 "natural"
             ],

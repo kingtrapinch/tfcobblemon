@@ -5,7 +5,7 @@
     "spawns": [
         {
             "id": "ursaluna-tfc-1",
-            "pokemon": "bulbasaur",
+            "pokemon": "ursaluna",
             "presets": [
                 "natural"
             ],

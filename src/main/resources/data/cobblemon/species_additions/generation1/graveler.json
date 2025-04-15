@@ -7,10 +7,6 @@
       {
         "item": "tfc:rock/loose/andesite",
         "quantityRange": "1-4"
-      },
-      {
-        "item": "tfc:ore/poor_tetrahedrite",
-        "percentage": 25
       }
     ]
   }

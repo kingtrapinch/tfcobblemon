@@ -5,7 +5,7 @@
     "spawns": [
         {
             "id": "galvantula-tfc-1",
-            "pokemon": "bulbasaur",
+            "pokemon": "galvantula",
             "presets": [
                 "seasonal"
             ],

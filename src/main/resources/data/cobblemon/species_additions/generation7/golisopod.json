@@ -9,8 +9,8 @@
         "quantityRange": "1-2"
       },
       {
-        "item": "cobblemon:oran_berry",
-        "percentage": 50
+        "item": "cobblemon:quick_claw",
+        "percentage": 10
       }
     ]
   }
